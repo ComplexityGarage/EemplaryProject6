@@ -1,6 +1,6 @@
 # ExemplaryProject 5 (Title of the project)
 # Authors 
-- Piotr Słowik
+- Joanna Doliwa
 # Description of the project 
 Text here... 
 # Science and tech used 
