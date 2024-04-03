@@ -3,8 +3,9 @@ Authors
 ----
 - Joanna Doliwa
 - based on the tuturials from the COMMON CODING (Piano1) and Technoreview85 (Piano2) YouTube channels
+  
 Project description
-----------
+------
 The project is Arduino-based and consists of two parts:
 1. **Piano 1**  
    A 8-note piano with "keys" made of tin foil, based on the principle of capacitive touch. A sound of assigned frequency is made upon touching the tin foil keys.
