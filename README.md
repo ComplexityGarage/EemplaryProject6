@@ -1,4 +1,4 @@
-# ExemplaryProject 5 (Piano 2 ways)
+# Piano 2 ways
 Authors 
 ----
 - Joanna Doliwa
